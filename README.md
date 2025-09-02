@@ -1,5 +1,5 @@
 <div align="center" width="50">
-    <img alt=![./4e688d03-1588-423c-a205-ee3d7cd03876.jpg]()
+      <img src="./4e688d03-1588-423c-a205-ee3d7cd03876.jpg" alt="I am Ricardo" width="250"/>
 />
 </div>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ricardo Jaciel Loza Chavez</h1>
