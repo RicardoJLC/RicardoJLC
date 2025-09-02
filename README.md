@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./4e688d03-1588-423c-a205-ee3d7cd03876.jpg" alt="I am Ricardo" width="300" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.12);"/>
+  <img src="./I_am.jpg" alt="I am Ricardo" width="300" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.12);" />
 </div>
 
 <h1 align="center">
