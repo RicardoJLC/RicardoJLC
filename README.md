@@ -45,6 +45,22 @@
 <img src="./ce1676d4-fbd6-4fa1-b892-142b46e268d5.png" alt="JavaFX" title="JavaFX"/> <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C (C Programming)"/> <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" title="Kotlin"/>
 <img src="https://img.icons8.com/fluency/48/000000/figma.png" alt="Figma" title="Figma"/> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Adobe Photoshop" title="Adobe Photoshop"/>
 <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle DatabaseSQL" title="Oracle DatabaseSQL"/> <img src="https://img.icons8.com/color/48/000000/npm.png" alt="npm" title="npm"/>
+## What I am Good at 🧑‍💻
+
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" title="HTML5"/> 
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/> 
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" title="JavaScript"/> 
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" title="Java"/>
+<!-- JavaFX (embebido) -->
+<img src="data:image/png;base64,..." alt="JavaFX" title="JavaFX"/> 
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C (C Programming)"/> 
+<img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" title="Kotlin"/>
+<img src="https://img.icons8.com/fluency/48/000000/figma.png" alt="Figma" title="Figma"/> 
+<img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Adobe Photoshop" title="Adobe Photoshop"/>
+<!-- Oracle Database (embebido) -->
+<img src="data:image/png;base64,..." alt="Oracle DatabaseSQL" title="Oracle DatabaseSQL"/> 
+<img src="https://img.icons8.com/color/48/000000/npm.png" alt="npm" title="npm"/>
+
 
 
 
