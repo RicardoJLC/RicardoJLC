@@ -37,15 +37,15 @@
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 <img src="https://img.icons8.com/color/48/000000/npm.png"/>
-## What I am Good at 🧑‍💻 :
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" title="Java"/> <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C (C Programming)"/> <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" title="Kotlin"/> <img src="https://openjfx.io/images/openjfx-logo.png" alt="JavaFX" title="JavaFX"/>
+## What I am Good at 🧑‍💻
+
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="JavaFX" title="JavaFX (fallback: Java icon)"/> <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C (C Programming)"/> <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" title="Kotlin"/> 
 <img src="https://img.icons8.com/fluency/48/000000/figma.png" alt="Figma" title="Figma"/> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop" title="Adobe Photoshop"/>
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle DB" title="Oracle Database / SQL"/>
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
-
-
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB"/> <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" title="Firebase"/>
+<img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle DatabaseSQL" title="Oracle DatabaseSQL"/>
+<img src="https://img.icons8.com/color/48/000000/npm.png" alt="npm" title="npm"/>
 
 
 
