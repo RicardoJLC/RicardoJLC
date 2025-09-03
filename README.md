@@ -9,7 +9,7 @@
 # 💫 About Me:
 🏢 I am currently studying Software Engineering at Utez.<br>
 🎓 Studies for Software Engineering at Emiliano Zapata Technological University<br>
-🏡 Lives in Dalugama Sri Lanka<br>⚡ Fun Facts : 🍕 🏉 🏏 🎥 🚞
+🏡 Lives in Cuernavaca Mor. <br>⚡ Fun Facts : 🍕 🏉 🏏 🎥 🚞
 
 
 ## 🌐 Socials:
