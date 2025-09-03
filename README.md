@@ -7,7 +7,7 @@
 </h1>
 
 # 💫 About Me:
-🏢 I am currently studying Software Engineering at Utez. HCL Technologies Lanka<br>🏢 Former Software Engineer at iLabs<br>🎓 Studies for Software Engineering at London Metropolitan University<br>🎓 Studies for BCS HEQ at Matrix Institute of Information Technology<br>🏡 Lives in Dalugama Sri Lanka<br>⚡ Fun Facts : 🍕 🏉 🏏 🎥 🚞
+🏢 I am currently studying Software Engineering at Utez. HCL Technologies Lanka<br>🏢 Former Software Engineer at iLabs<br>🎓 Studies for Software Engineering at Emiliano Zapata Technological University<br>🎓 Studies for BCS HEQ at Matrix Institute of Information Technology<br>🏡 Lives in Dalugama Sri Lanka<br>⚡ Fun Facts : 🍕 🏉 🏏 🎥 🚞
 
 
 ## 🌐 Socials:
